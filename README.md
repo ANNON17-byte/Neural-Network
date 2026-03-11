@@ -185,14 +185,6 @@ This project helps understand:
 
 ---
 
-##  References
-
-* Neural Networks from Scratch by Harrison Kinsley
-* Deep Learning Fundamentals
-* NumPy Documentation
-
----
-
 ##  Future Improvements
 
 * Implement Optimizers (SGD, Adam)
