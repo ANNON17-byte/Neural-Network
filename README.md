@@ -1,4 +1,4 @@
-# Neural Network From Scratch (NumPy)
+# Neural Network From Scratch 
 
 A complete implementation of a **Neural Network built entirely from scratch using NumPy**, implementing both **forward propagation and backpropagation without using deep learning frameworks like TensorFlow or PyTorch**.
 
